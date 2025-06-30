@@ -1,3 +1,8 @@
+# NAMA   : AMIRUL SALIS
+# NIM    : A11.2022.14258
+# KELP   : A11.4604
+# MATKUL : PEMOGRAMAN SISI SERVER
+
 # Simple LMS - Proyek Akhir Backend
 
 Repositori ini merupakan implementasi backend dari sistem Simple Learning Management System (LMS) menggunakan Django dan Django Ninja sebagai REST API Framework. Sistem ini mendukung fitur pendaftaran pengguna, manajemen kursus, komentar, sertifikat penyelesaian, pelacakan progres konten, dan statistik aktivitas pengguna.
