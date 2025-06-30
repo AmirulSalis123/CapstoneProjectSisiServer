@@ -96,15 +96,3 @@ Sistem menggunakan JWT berbasis Django Ninja Simple JWT.
 Login menggunakan endpoint: /api/v1/auth/token
 Gunakan token dengan header:
 Authorization: Bearer <access_token>
-
-<!-- certificate.html -->
-<html>
-  <body>
-    <h1>Sertifikat Penyelesaian Kursus</h1>
-    <p>Diberikan kepada:</p>
-    <h2>{{ user.first_name }} {{ user.last_name }}</h2>
-    <p>Atas partisipasinya dalam menyelesaikan kursus:</p>
-    <h3>{{ course.name }}</h3>
-    <p>Pada tanggal: {{ date|date:"j F Y" }}</p>
-  </body>
-</html>
