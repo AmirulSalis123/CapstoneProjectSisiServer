@@ -91,7 +91,7 @@ Swagger UI untuk dokumentasi endpoint otomatis
     Endpoint: DELETE /content/{content_id}/complete
     Menghapus status penyelesaian pada konten tertentu.
 
-🔐 Autentikasi
+# Autentikasi
 Sistem menggunakan JWT berbasis Django Ninja Simple JWT.
 Login menggunakan endpoint: /api/v1/auth/token
 Gunakan token dengan header:
